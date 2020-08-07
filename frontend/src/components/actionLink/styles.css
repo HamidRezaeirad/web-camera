@@ -1,0 +1,61 @@
+.link-button {
+  position: absolute;
+  color: #228288 !important;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: unset;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 21px;
+}
+.link-button:hover,
+.link-button:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+.left-link {
+  top: 90%;
+  left: 10%;
+}
+
+.right-link {
+  top: 90%;
+  left: 70%;
+}
+
+.disable {
+  color: #4a4a4a !important;
+}
+
+.leftBtn {
+  position: absolute;
+  top: 92%;
+  left: 23%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.rightBtn {
+  position: absolute;
+  top: 92%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}

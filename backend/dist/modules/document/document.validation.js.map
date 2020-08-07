@@ -1,0 +1,1 @@
+{"version":3,"file":"document.validation.js","sourceRoot":"","sources":["../../../src/modules/document/document.validation.ts"],"names":[],"mappings":";;AAAA,yCAAgC;AAEhC,MAAM,eAAe,GAAG;IACtB,OAAO,EAAE;QACP,IAAI,EAAE;YACJ,QAAQ,EAAE,eAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;YACjC,MAAM,EAAE,eAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;SAChC;KACF;CACF,CAAC;AAEF,kBAAe,eAAe,CAAC"}

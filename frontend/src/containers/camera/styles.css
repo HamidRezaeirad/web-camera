@@ -1,0 +1,54 @@
+.video-container {
+  display: flex;
+  height: 100vh;
+  border: 2px black solid !important;
+}
+
+#container-circles {
+  position: absolute !important;
+  left: 50% !important;
+  bottom: 90px !important;
+}
+
+#outer-circle {
+  background-color: #bf3041 !important;
+  position: absolute !important;
+  border-radius: 50% !important;
+}
+
+#inner-circle {
+  background-color: #bf3041 !important;
+  border-radius: 50% !important;
+  box-shadow: 0 0 0 4px #fff !important;
+  left: 40% !important;
+  top: 30px !important;
+  height: 58px !important;
+  width: 58px !important;
+}
+
+#inner-circle.is-clicked {
+  margin: -22px 0 0 -22px;
+  left: 48% !important;
+  top: 36px !important;
+  height: 47px !important;
+  width: 47px !important;
+}
+
+.react-html5-camera-photo > video {
+  height: 85%;
+  width: 100% !important;
+  object-fit: cover;
+}
+
+.react-html5-camera-photo > img {
+  height: 85%;
+  width: 100% !important;
+  object-fit: cover;
+  width: -webkit-fill-available;
+}
+
+.react-html5-camera-photo {
+  height: 100% !important;
+  box-sizing: border-box;
+  width: -webkit-fill-available;
+}
