@@ -21,7 +21,7 @@ This web application is design to take a picture using a browser in a mobile pho
     "password": ""
    ```
 
-# Below Package Libraries are used:
+# Below package libraries are used:
 
 ## pdfkit
  
