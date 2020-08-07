@@ -1,0 +1,10 @@
+.Backdrop {
+  opacity: 1.1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(163, 157, 157, 0.5);
+  z-index: 100;
+  left: 0;
+  top: 0;
+}
